@@ -1,0 +1,3 @@
+C:/Users/mngf1/Google Drev/Universitet - Dokumenter/3. Semester/PCSS/Lecture 3/Penge ting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/mngf1/Google Drev/Universitet - Dokumenter/3. Semester/PCSS/Lecture 3/Penge ting/cmake-build-debug/CMakeFiles/Penge_ting.dir
+C:/Users/mngf1/Google Drev/Universitet - Dokumenter/3. Semester/PCSS/Lecture 3/Penge ting/cmake-build-debug/CMakeFiles/edit_cache.dir
